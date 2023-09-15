@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @Hychaim
-- 👀 I’m a Fullstack developer and I'm interested in Web Development and Design of any kind
-- 🌱 I’m always learning everything I can
-- 🏞️ I like to develop tools that help me create imaginary worlds
+## 🚀 About Me
+
+🔭 I'm a Full Stack Developer.
+
+💡 Committed to best practices and code efficiency.
+
+🌱 On a perpetual quest to master the latest technologies and keeping pace with the ever-evolving world of web tech.
 
 <!---
 Hychaim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
